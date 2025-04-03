@@ -4,8 +4,8 @@
 using namespace std;
 
 int main() {
-    Student student();
-    f();
+    /*Student student();
+    f();*/
     cout << "Git is now tracking this project!" << endl;
     return 0;
 }
