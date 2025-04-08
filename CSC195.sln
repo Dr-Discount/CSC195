@@ -9,7 +9,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataTypes", "DataTypes\Data
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UserDataTypes", "UserDataTypes\UserDataTypes.vcxproj", "{767E2D91-2FF8-411B-A54D-232EAC5A9916}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dice roller", "dice roller\dice roller.vcxproj", "{F2390A90-2FE2-4997-88B2-9DC079BC4716}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DiceRoller", "dice roller\dice roller.vcxproj", "{F2390A90-2FE2-4997-88B2-9DC079BC4716}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Containers", "Containers\Containers.vcxproj", "{9B503AD2-0D62-491F-8C9C-8245C2771A8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,14 @@ Global
 		{F2390A90-2FE2-4997-88B2-9DC079BC4716}.Release|x64.Build.0 = Release|x64
 		{F2390A90-2FE2-4997-88B2-9DC079BC4716}.Release|x86.ActiveCfg = Release|Win32
 		{F2390A90-2FE2-4997-88B2-9DC079BC4716}.Release|x86.Build.0 = Release|Win32
+		{9B503AD2-0D62-491F-8C9C-8245C2771A8F}.Debug|x64.ActiveCfg = Debug|x64
+		{9B503AD2-0D62-491F-8C9C-8245C2771A8F}.Debug|x64.Build.0 = Debug|x64
+		{9B503AD2-0D62-491F-8C9C-8245C2771A8F}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B503AD2-0D62-491F-8C9C-8245C2771A8F}.Debug|x86.Build.0 = Debug|Win32
+		{9B503AD2-0D62-491F-8C9C-8245C2771A8F}.Release|x64.ActiveCfg = Release|x64
+		{9B503AD2-0D62-491F-8C9C-8245C2771A8F}.Release|x64.Build.0 = Release|x64
+		{9B503AD2-0D62-491F-8C9C-8245C2771A8F}.Release|x86.ActiveCfg = Release|Win32
+		{9B503AD2-0D62-491F-8C9C-8245C2771A8F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
