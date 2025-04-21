@@ -7,7 +7,7 @@ class Student {
 public:
 	Student() {}
 	Student(std::string name) {
-		m_name = name
+		m_name = name;
 	}
 
 	void Write();
